@@ -132,6 +132,8 @@
 						M.adjustBruteLoss(-3)
 						M.adjustFireLoss(-3)
 						owner.adjust_nutrition(-5)
+						M.heal_wounds(2)
+						
 
 	//for when you just want people to squelch around
 		if(DM_NOISY)

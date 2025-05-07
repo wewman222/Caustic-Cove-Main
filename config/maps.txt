@@ -21,3 +21,7 @@ endmap
 map covuscruiser
 	votable
 endmap
+
+map dun_manor_dungeon
+	votable
+endmap

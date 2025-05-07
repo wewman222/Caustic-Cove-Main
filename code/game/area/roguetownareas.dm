@@ -858,3 +858,14 @@ GLOBAL_LIST_INIT(roguetown_areas_typecache, typecacheof(/area/rogue/indoors/town
 	droning_sound_dusk = null
 	droning_sound_night = null
 	first_time_text = "The Brig"
+
+
+
+//CC Randomized dungeon
+
+/area/rogue/indoors/dungeonrand
+	name = "dungeonrand"
+	icon_state = "underworld"
+	first_time_text = "THE PIT"
+	droning_sound = 'sound/music/area/dungeonrand.ogg'
+	

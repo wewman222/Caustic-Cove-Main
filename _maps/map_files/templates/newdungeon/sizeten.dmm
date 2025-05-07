@@ -1,0 +1,16 @@
+"a" = (/turf/open/floor/plating/dirt,/area/rogue/indoors/dungeonrand)
+"y" = (/turf/closed/wall/mineral/rogue/decostone/cand,/area/rogue/indoors/dungeonrand)
+"G" = (/obj/item/roguestatue/gold,/turf/open/floor/plating/dirt,/area/rogue/indoors/dungeonrand)
+
+(1,1,1) = {"
+GaaaaaaaaG
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaayyaaaa
+aaaayyaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+GaaaaaaaaG
+"}
